@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4017d2e6-04ab-4c49-b7e0-080e941b0133" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/hello/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello/hello.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello2/main.go" afterDir="false" />
+    <list default="true" id="4017d2e6-04ab-4c49-b7e0-080e941b0133" name="Changes" comment="hello world">
+      <change afterPath="$PROJECT_DIR$/ex4.1/ex4.1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4.3/ex4.3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4.4/ex4.4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4.5/ex4.5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4.6/ex4.6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4.7/ex4.7.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello2/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,26 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/bagjonghyeog/Desktop/pro/go-study/basic/hello",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bagjonghyeog/Desktop/pro/go-study/basic/hello&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hello" />
@@ -63,29 +67,59 @@
       <recent name="$PROJECT_DIR$/hello/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build hello2">
-    <configuration name="go build basic/hello2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build ex4.7.go">
+    <configuration name="go build basic/ex4.1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="basic" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="basic/hello2" />
+      <package value="basic/ex4.1" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/hello2/main.go" />
+      <filePath value="$PROJECT_DIR$/ex4.1/ex4.1.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build hello2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build basic/ex4.4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="basic" />
-      <working_directory value="$PROJECT_DIR$/hello2" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="hello2" />
+      <package value="basic/ex4.4" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/hello2/main.go" />
+      <filePath value="$PROJECT_DIR$/ex4.4/ex4.4.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ex4.3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="basic" />
+      <working_directory value="$PROJECT_DIR$/ex4.3" />
+      <kind value="PACKAGE" />
+      <package value="ex4.3" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ex4.3/ex4.3.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ex4.5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="basic" />
+      <working_directory value="$PROJECT_DIR$/ex4.5" />
+      <kind value="FILE" />
+      <package value="basic" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ex4.5/ex4.5.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ex4.7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="basic" />
+      <working_directory value="$PROJECT_DIR$/ex4.7" />
+      <kind value="FILE" />
+      <package value="basic" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ex4.7/ex4.7.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build hello2" />
-        <item itemvalue="Go Build.go build basic/hello2" />
+        <item itemvalue="Go Build.go build ex4.7.go" />
+        <item itemvalue="Go Build.go build ex4.5.go" />
+        <item itemvalue="Go Build.go build basic/ex4.4" />
+        <item itemvalue="Go Build.go build ex4.3" />
+        <item itemvalue="Go Build.go build basic/ex4.1" />
       </list>
     </recent_temporary>
   </component>
@@ -98,11 +132,36 @@
       <option name="presentableId" value="Default" />
       <updated>1730506821538</updated>
       <workItem from="1730510846660" duration="1845000" />
+      <workItem from="1730514457401" duration="26000" />
+      <workItem from="1730614711977" duration="4539000" />
     </task>
+    <task id="LOCAL-00001" summary="hello world">
+      <created>1730514472979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730514472979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
